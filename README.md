@@ -80,7 +80,7 @@ Each section is designed to analyze key aspects of the lending process including
 
 ## 📎 How to Use
 
-1. Open the `.pbix` file in Power BI Desktop (coming soon).
+1. Open the `.pbix` file in Power BI Desktop ![File](https://github.com/kunal1300/Loan/blob/a0875ba7deefa4799542705566e45622ad094eaf/Loan.pbix).
 2. Interact with filters to explore dimensions like age, marital status, employment, and more.
 3. Export visuals or integrate with Power BI service for web sharing.
 
