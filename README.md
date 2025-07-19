@@ -90,6 +90,10 @@ Each section is designed to analyze key aspects of the lending process including
 3. Export visuals or integrate with Power BI service for web sharing.
 
 ---
+📍 Author
+Kunal Solanki
+📌 Data Analyst | Business Intelligence Specialist
+🔗 LinkedIn | 📫 kunalsolanki@email.com
 
 ## 📂 Repository Structure
 
