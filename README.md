@@ -19,7 +19,10 @@ Each section is designed to analyze key aspects of the lending process including
 ## 📁 Dashboard Sections and Key Insights
 
 ### 🔹 1. Loan Default and Overview
+## Screenshot 1
+![screenshot1](https://github.com/kunal1300/Loan/blob/a1ade15f484bd098603553880e49b279acc0ae0f/Screenshot%201.png)
 
+ 
 | Visualization | Description |
 |---------------|-------------|
 | **Loan Amount by Purpose** | Home loans dominate followed by Business and Education loans. |
